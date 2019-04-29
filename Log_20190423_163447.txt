@@ -1,0 +1,4 @@
+[3] 4:34:47 PM: Log started for 'C:\Tosca_Projects\TOSCA_Workspaces\G8 Education\G8 Education.tws'
+[3] 4:34:47 PM: Log level: 4
+[3] 4:34:47 PM: Release: 12.0.0.19268
+[4] 4:34:47 PM:  ShowStatusInfo: 'Ready'
